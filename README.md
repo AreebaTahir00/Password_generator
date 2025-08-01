@@ -6,7 +6,7 @@ This is a Python script that allows users to create accounts by entering their n
 - Option to auto-generate a secure password
 - Clean user prompts and final account summary
 
-#Sample Output
+##Sample Output
 ✅
 Your account is created successfully. :)
 
