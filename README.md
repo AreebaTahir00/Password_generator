@@ -9,7 +9,7 @@ This is a Python script that allows users to create accounts by entering their n
 ## Sample Output
 ✅
 Your account is created successfully. :)
-
+```
 ___________YOUR ACCOUNT INFORMATION__________
 Your name: Areeba
 Your contact: 03001234567
